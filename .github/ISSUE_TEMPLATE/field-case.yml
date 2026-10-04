@@ -1,0 +1,25 @@
+name: Share a field case
+description: Contribute an anonymized real situation that tests or extends a skill.
+labels: [field-case]
+body:
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill
+      options: [Board meeting prep, Hiring scorecard, Leadership development diagnostic, Bench strength and succession, Investor update]
+    validations:
+      required: true
+  - type: textarea
+    id: case
+    attributes:
+      label: The case
+      description: Situation, what was decided, what happened, and the lesson. No names of people or companies, and no identifying figures.
+    validations:
+      required: true
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Permission
+      options:
+        - label: This case is fully anonymized, contains nothing confidential, and I grant Management OS Inc. permission to adapt and publish it under this repository's license.
+          required: true

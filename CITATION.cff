@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these skills in research, training, or published work, please cite them."
+title: "Revenue Leader Skills"
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+url: "https://github.com/Management-OS-Inc/revenue-leader-skills"
+authors:
+  - family-names: Mesiarik
+    given-names: Jason
+    affiliation: "Management OS Inc."

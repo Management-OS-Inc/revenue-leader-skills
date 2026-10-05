@@ -31,7 +31,7 @@ No agent? Read any `SKILL.md` as a playbook.
 
 ## Also in
 
-These skills are published in the [GTM Skills](https://gtmskills.com) library.
+These skills will be published in the [GTM Skills](https://gtmskills.com) library.
 
 ## Feedback and field cases
 

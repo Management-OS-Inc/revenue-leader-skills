@@ -1,0 +1,17 @@
+name: Feedback or correction
+description: Report an error or suggest an improvement to a skill.
+labels: [feedback]
+body:
+  - type: dropdown
+    id: skill
+    attributes:
+      label: Skill
+      options: [Board meeting prep, Hiring scorecard, Leadership development diagnostic, Bench strength and succession, Investor update]
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: What should change, and why?
+    validations:
+      required: true

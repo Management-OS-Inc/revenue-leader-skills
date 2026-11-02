@@ -10,7 +10,7 @@
   <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-0F8F47?style=flat-square&labelColor=0A0A0B"></a>
 </p>
 
-Five agent skills for the work revenue leaders are judged on and rarely trained for: running the board, hiring, developing leaders, building the bench, and keeping investors' trust. Each one turns a judgment call into a method, and ships with a rubric that tells you when the work is ready.
+Five agent skills for the work revenue leaders are judged on and rarely trained for: running the board, hiring, developing leaders, building the bench, and keeping investors' trust. Each one turns a judgment call into a method, and ships with a rubric that tells you when the work is ready. These skills share a foundation within the Management OS sales management operating system.
 
 By [Jason Mesiarik](https://www.linkedin.com/in/jasonmesiarik), founder and CEO of [Management OS](https://mgmt-os.ai?utm_source=github&utm_medium=readme&utm_campaign=revenue-leader-skills). Each skill is grounded in real situations, with names and details changed.
 
